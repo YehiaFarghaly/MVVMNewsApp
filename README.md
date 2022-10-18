@@ -17,3 +17,5 @@
 
 https://user-images.githubusercontent.com/102627389/196551552-a29ea21d-7a07-4117-8cb6-c2017e54484f.mp4
 
+## You can download the app from (https://github.com/YehiaFarghaly/MVVMNewsApp/releases/download/EG_NEWS/EG_News.apk)[here] 
+
