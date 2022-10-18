@@ -8,7 +8,7 @@
 3) Room
 4) Recycler View
 5) MVVM design pattern
-6) Single Activity Architechture
+6) Single Activity Architecture
 7) Glide
 8) News API
 ```
