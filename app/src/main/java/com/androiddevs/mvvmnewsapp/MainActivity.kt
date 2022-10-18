@@ -17,7 +17,7 @@ lateinit var viewModel: NewsViewModel
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 val repository=NewsRepository(ArticleDatabase(this))
-        val viewModelFactory =  ViewModelFactory(repository)
+        val viewModelFactory =  ViewModelFactory(application,repository)
         viewModel = ViewModelProvider(this,viewModelFactory).get(NewsViewModel::class.java)
         bottomNavigationView.setupWithNavController(newNavHostFragment.findNavController())
 
